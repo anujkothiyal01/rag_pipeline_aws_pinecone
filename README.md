@@ -1,6 +1,7 @@
 # 🧠 Retrieval-Augmented Generation (RAG) Pipeline using AWS Bedrock & Pinecone
 
-🔗 **Click to watch the full walkthrough on YouTube**
+🔗 **Click to watch the full walkthrough on YouTube** - https://www.youtube.com/watch?v=bmfpVtQnXeA&t
+
 [![Watch the video](https://img.youtube.com/vi/bmfpVtQnXeA/0.jpg)](https://www.youtube.com/watch?v=bmfpVtQnXeA)
 
 > End-to-end RAG chatbot pipeline using Amazon Bedrock, Pinecone, Textract, and Python to enable contextual question-answering over PDF documents.
